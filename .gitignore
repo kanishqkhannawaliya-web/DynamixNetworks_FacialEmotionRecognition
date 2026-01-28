@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+.env
+.vscode/
+.DS_Store
+
+# Model artifacts (don't commit heavy weights unless using LFS)
+model/*.h5
+model/*.pth
