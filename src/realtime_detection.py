@@ -59,16 +59,4 @@ while True:
         break
 
 cap.release()
-cv2.destroyAllWindows()kanishqkhannawaliya@kanishqs-MacBook-Air DynamixNetworks_FacialEmotionRecognition % # if gh not installed: brew install gh
-gh auth login
-gh repo create DynamixNetworks_FacialEmotionRecognition --public --source=. --remote=origin --push
-zsh: command not found: #
-zsh: command not found: gh
-zsh: command not found: gh
-kanishqkhannawaliya@kanishqs-MacBook-Air DynamixNetworks_FacialEmotionRecognition % kanishqkhannawaliya@kanishqs-MacBook-Air DynamixNetworks_FacialEmotionRecognition % # if gh not installed: brew install gh
-gh auth login
-gh repo create DynamixNetworks_FacialEmotionRecognition --public --source=. --remote=origin --push
-zsh: command not found: #
-zsh: command not found: gh
-zsh: command not found: gh
-kanishqkhannawaliya@kanishqs-MacBook-Air DynamixNetworks_FacialEmotionRecognition % 
+cv2.destroyAllWindows()
