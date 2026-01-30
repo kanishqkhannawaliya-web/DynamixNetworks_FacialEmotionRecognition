@@ -1,0 +1,19 @@
+# Virtual env
+venv/
+env/
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# macOS
+.DS_Store
+
+# common model / build files
+*.h5
+*.ckpt
+*.pb
+*.pth
